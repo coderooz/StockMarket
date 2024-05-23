@@ -1,0 +1,13 @@
+./test
+./gitignore
+
+./error/*
+./data/*
+./app/database/*
+
+
+*.db
+*.json
+*.txt
+*.pyc
+*.log
