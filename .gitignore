@@ -1,9 +1,7 @@
 ./test
 ./gitignore
+./NSE
 
-./error/*
-./data/*
-./app/database/*
 
 
 *.db
