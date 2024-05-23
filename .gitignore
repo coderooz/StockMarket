@@ -1,8 +1,7 @@
 ./test
 ./gitignore
-./NSE
-
-
+./NSE 
+./data
 
 *.db
 *.json
